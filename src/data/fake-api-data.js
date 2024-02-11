@@ -49,5 +49,3 @@ const getFakeAPIData = () => {
 
 export { getFakeAPIData };
 
-
-"71bce68a49eb9cd0c071c52aec327ced"
